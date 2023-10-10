@@ -1,52 +1,44 @@
-Lending Club Case Study
-> Outline a brief description of your project.
-
+# Project Name: Lending Club Case Study
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+- [General Info](#general-information)
+- [Conclusions](#conclusions)
+- [Contributors](#Contributors)
+
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+### Project Information
+
+> The project is a data science project that uses the lending club data set to predict whether a loan will be defaulted or not.
+
+### Project Background
+
+> Lending Club is a peer-to-peer loan company. It runs an online marketplace to match borrowers with lenders. Borrowers apply for loans ranging from $1,000 to $35,000. If the application is approved, Lending Club will offer a loan whose interest rate is based on submitted information and credit history. 
+
+### Project Statement
+
+> You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+> The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
+
+### Data Set
+
+> It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Larger number of Higher loan amounts defaulted by low grade applicants or for loans with higher interest rates
+- Risk of people who default increases with higher interest rate, higher loan amount and lower grade
+- Borrowers from the state of Florida has received more number loans and 18% of them have defaulted
+- Borrowers from the state of Nevada and Nebraska has highest default percentage
+- NJ and TX are the other states that has high number of defaults
+- Clients with a history of derogatory credit incidents or a public record of bankruptcies are at a heightened risk of loan defaults
+- More borrowers across grade B,C and D, taken loan for debt consolidation has defaulted
+- People who have taken loan for the purpose of Debt Consolidation, Credit Card and Small business are more likely to default and probablity is higher for lower grade borrowers among that. 
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## Contributors
+- Arun Prasad
+- Satya Sai Chaitanya Patchigolla
